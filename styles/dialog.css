@@ -99,11 +99,7 @@ ai-dialog > ai-dialog-footer button:disabled {
   cursor: default;
   opacity: 0.45;
 }
-ai-dialog > ai-dialog-footer button:hover:enabled {
-  color: #333;
-  background-color: #e6e6e6;
-  border-color: #adadad;
-}
+
 .ai-dialog-open {
   overflow: hidden;
 }
